@@ -5,12 +5,14 @@
   "author": "Thalyson Oliveira <thalysonoliveira150@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/mongoose": "^5.10.3",
     "ts-node-dev": "^1.1.1",
     "typescript": "^4.1.3"
   },
   "dependencies": {
     "class-validator": "^0.12.2",
     "graphql": "^15.4.0",
+    "mogoose": "^0.0.1-security",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1"
   }
