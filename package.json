@@ -1,0 +1,11 @@
+{
+  "name": "nodestream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thalyson Oliveira <thalysonoliveira150@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}
