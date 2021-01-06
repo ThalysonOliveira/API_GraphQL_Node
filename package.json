@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Thalyson Oliveira <thalysonoliveira150@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "tsnd src/server.ts"
+  },
   "devDependencies": {
     "@types/mongoose": "^5.10.3",
     "ts-node-dev": "^1.1.1",
@@ -13,7 +16,7 @@
     "apollo-server": "^2.19.1",
     "class-validator": "^0.12.2",
     "graphql": "^15.4.0",
-    "mogoose": "^0.0.1-security",
+    "mongoose": "^5.11.10",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1"
   }
